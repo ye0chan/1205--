@@ -1,0 +1,6 @@
+streamlit>=1.42,<2
+requests>=2.32,<3
+Pillow>=10.4,<13
+zxing-cpp>=2.3,<3
+reportlab>=4.2,<5
+cryptography>=44,<47
